@@ -19,7 +19,7 @@
 ---
 
 我是一张来自本地的图片哦
-![这是一个本地图片](F:\desktop\desktop\blog\Github\EnglishHomework\computer.jpeg)
+![这是一个本地图片](computer.jpeg)
 
 
 
